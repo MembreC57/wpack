@@ -1,2 +1,2 @@
-# wpack
+# WPack
 Etude Webpack
