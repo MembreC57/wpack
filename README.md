@@ -1,2 +1,2 @@
 # WPack
-Etude Webpack
+Étude Webpack
